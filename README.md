@@ -19,5 +19,14 @@
 ## Sprint Özetleri
 
 ### Hafta 0
+- Özet:
 
 ![Ekran Görüntüsü 2025-03-21 09-41-25](https://github.com/user-attachments/assets/de94316e-8f02-454f-97d1-870b86602fe6)
+
+### Hafta 1
+- Özet:
+![Ekran görüntüsü 2025-03-27 223212](https://github.com/user-attachments/assets/177ca18e-efb4-4486-9efb-fbdc2d399abb)
+
+- Burnup Raporu:
+![Ekran görüntüsü 2025-03-27 223242](https://github.com/user-attachments/assets/7a9e4b9b-5bdb-4737-bfc1-fed2fb9e5929)
+
