@@ -29,3 +29,7 @@
 - Burnup Raporu:
 ![Ekran görüntüsü 2025-03-27 223242](https://github.com/user-attachments/assets/7a9e4b9b-5bdb-4737-bfc1-fed2fb9e5929)
 
+### Hafta 2
+- Özet:
+![Ekran görüntüsü 2025-04-19 155736](https://github.com/user-attachments/assets/6c3f0ab6-a6b8-4aa2-be0c-ff4ddc812f24)
+
