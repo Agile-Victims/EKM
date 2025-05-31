@@ -25,30 +25,31 @@
 
 1. **Ana Klasörü Klonla:**
    ```sh
-   "git clone https://github.com/Agile-Victims/EKM.git" çalıştır.
+   "git clone https://github.com/Agile-Victims/EKM.git" çalıştırınız.
    ```
 
 2. **Frontend'i Klonla:**
    ```sh
-   /EKM içinde "git clone https://github.com/Agile-Victims/EKM.Client.git" çalıştır.
+   /EKM içinde "git clone https://github.com/Agile-Victims/EKM.Client.git" çalıştırınız.
    ```
 
 3. **Backend'i Klonla:**
    ```sh
-   /EKM içinde "git clone https://github.com/Agile-Victims/EKM.Server.git" çalıştır.
+   /EKM içinde "git clone https://github.com/Agile-Victims/EKM.Server.git" çalıştırınız.
    ```
 
 4. **Docker İle Çalıştır:**
    ```sh
-   localhost:4200 ve localhost:8080 portunun müsait olduğuna emin ol.
-   /EKM içinde "docker compose up --build" çalıştır.
+   localhost:4200 ve localhost:8080 portunun müsait olduğuna emin olunuz.
+   /EKM içinde "docker compose up --build" çalıştırınız.
    "ekm-backend   | Default admin created!" mesajı gözüktüğünde tüm servisler çalışmış demektir.
    ```
 
 5. **Frontend'i Görüntüle:**
    ```sh
-   Browser üzerinden http://localhost:4200 adresini ziyar et.
+   Browser üzerinden http://localhost:4200 adresini ziyaret ediniz.
    ```
+   
 6. **Koç Girişi Yap:**
    ```sh
    Varsayılan Giriş Bilgileri:
