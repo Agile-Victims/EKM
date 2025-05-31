@@ -16,20 +16,30 @@
 - PostgreSQL
 - Jira
 
-## Sprint Özetleri
+### Gereksinimler
+- Docker
 
-### Hafta 0
-- Özet:<br/>
-![Ekran görüntüsü 2025-03-27 223212](https://github.com/user-attachments/assets/de94316e-8f02-454f-97d1-870b86602fe6)
+### Kurulum
 
-### Hafta 1
-- Özet:
-![Ekran görüntüsü 2025-03-27 223212](https://github.com/user-attachments/assets/177ca18e-efb4-4486-9efb-fbdc2d399abb)
+1. **Ana klasörü klonla:**
+   ```sh
+   git clone https://github.com/Agile-Victims/EKM.git
+   ```
 
-- Burnup Raporu:
-![Ekran görüntüsü 2025-03-27 223242](https://github.com/user-attachments/assets/7a9e4b9b-5bdb-4737-bfc1-fed2fb9e5929)
+2. **Frontend'i klonla:**
+   ```sh
+   /EKM içinde
+   https://github.com/Agile-Victims/EKM.Client.git
+   ```
 
-### Hafta 2
-- Özet:
-![Ekran görüntüsü 2025-04-19 155736](https://github.com/user-attachments/assets/6c3f0ab6-a6b8-4aa2-be0c-ff4ddc812f24)
+3. **Backend'i klonla:**
+   ```sh
+   /EKM içinde
+   https://github.com/Agile-Victims/EKM.Server.git
+   ```
 
+3. **Backend'i klonla:**
+   ```sh
+   /EKM içinde
+  docker compose-up --build
+   ```
