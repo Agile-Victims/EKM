@@ -49,3 +49,9 @@
    ```sh
    Browser üzerinden http://localhost:4200 adresini ziyar et.
    ```
+6. **Koç Girişi Yap:**
+   ```sh
+   Varsayılan Giriş Bilgileri:
+   E-Posta: admin@gmail.com
+   Şifre: 123Admin-456
+   ```
