@@ -4,11 +4,28 @@
 2024-2025 Bahar dönemi Çevik Yaklaşımlarla Yazılım Geliştirme dersi dönem projesi olarak yapılmıştır.
 
 ## Katkıda Bulunanlar
-- [Ahmet Mahir Demirelli](https://github.com/Ahmet-MahirDEMIRELLI)
-- [Nijat Majidli](https://github.com/nicat00m20)
-- [Ali Mammadli](https://github.com/alimammadli0)
-- [Osman Hayek](https://github.com/osmanhayek)
-- [Tan Erciyas](https://github.com/Ghurstird)
+<table>
+  <tr>
+    <td><a href="https://github.com/Ahmet-MahirDEMIRELLI">Ahmet Mahir Demirelli</a></td>
+    <td>Frontend Developer, Tester, Product Owner</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nicat00m20">Nijat Majidli</a></td>
+    <td>Backend Developer</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/alimammadli0">Ali Mammadli</a></td>
+    <td>Frontend Developer, Product Owner</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/osmanhayek">Osman Hayek</a></td>
+    <td>Backend Developer</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Ghurstird">Tan Erciyas</a></td>
+    <td>Frontend Developer</td>
+  </tr>
+</table>
 
 ## Newsletter
 ![iamges](Agile_Victims_Newsletter.png)
