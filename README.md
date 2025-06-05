@@ -10,6 +10,9 @@
 - [Osman Hayek](https://github.com/osmanhayek)
 - [Tan Erciyas](https://github.com/Ghurstird)
 
+## Newsletter
+![iamges](Agile_Victims_Newsletter.png)
+
 ## Kullanılan Teknolojiler
 - Angular
 - Java Spring Boot
@@ -56,3 +59,6 @@
    E-Posta: admin@gmail.com
    Şifre: 123Admin-456
    ```
+
+## Demo
+- [EKM Demo](https://www.youtube.com/watch?v=XszozeYOPZI)
